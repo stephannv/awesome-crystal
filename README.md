@@ -286,6 +286,7 @@ described in [RFC 8032]
 
 ## HTML Builders
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+ * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML programatically
 
 ## HTML/XML Parsing
  * [docx_cr_converter](https://github.com/aristotelesbr/docx_cr_converter) - parse DOCX Word
